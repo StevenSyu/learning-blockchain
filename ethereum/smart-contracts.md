@@ -31,7 +31,7 @@
 
 ![flow-2](images/smartSponsor-2.png)
 
-* 執行由於謀些原因無法承擔，而 runner 指示合約將退還贊助商的抵押。
+* 執行由於某些原因無法承擔，而 runner 指示合約將退還贊助商的抵押。
 
 ![flow-3](images/smartSponsor-3.png)
 
